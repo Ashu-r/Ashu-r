@@ -40,6 +40,6 @@
 
 [twitter]: https://twitter.com/_ashyou
 [youtube]: https://www.youtube.com/channel/UCnGdfBZeCz2TN6Ghc-X-c1w?view_as=subscriber
-[instagram]: https://instagram.com/_ashyou_
+[instagram]: https://instagram.com/_ashyou
 [linkedin]: https://www.linkedin.com/in/ashutosh-randive-18923578/
 [flask]: https://phone-genie.herokuapp.com
