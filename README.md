@@ -17,9 +17,10 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="static/icons/youtube-blue.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="static/icons/twitter-blue.svg" />][twitter]
+[<img align="left" alt="Gmail" width="22px" src="static/icons/gmail.svg" />][gmail]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="static/icons/linkedin-blue.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="static/icons/twitter-blue.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="static/icons/youtube-blue.svg" />][youtube]
 
 <br />
 
@@ -43,6 +44,7 @@
 [linkedin]: https://www.linkedin.com/in/ashutosh-randive-18923578/
 [flask]: https://phone-genie.herokuapp.com
 [django]: https://ashtronaut.pythonanywhere.com/
+[gmail]:mailto:randiveashutosh@gmail.com
 
 
   
