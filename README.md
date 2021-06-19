@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I’m currently learning about REACT, NODE JS, EXPRESS and mongoDB
 - 👯 I’m looking forward to create some useful websites!
-- 🥅 2020 Goals: Learn full stack with node (and ror if possible)
+- 🥅 2021 Goals: Learn full stack with node (and ror if possible)
 - ⚡ I love to fiddle around with code and explore Open Source Projects!
 - 📱 I just created this [django] app and this [flask] app.
 
