@@ -6,9 +6,13 @@
 ## I'm a Student, Developer, and Learner!
 <!--
 - 🔭 I’m currently working on a [VS Code Course][website]! -->
-- 🌱 I’m currently learning about REACT, NODE JS, EXPRESS and mongoDB
-- 👯 I’m looking forward to create some useful websites!
-- 🥅 2021 Goals: Learn full stack with node (and ror if possible)
+- 🌱 I’m currently working as a JavaScript developer on JS technologies like React, Vue, React native.
+- 👯 I’m looking forward to create some interesting websites!
+- 🥅 2021 Goals: 
+     - ~~Learn full stack with node~~
+     - ~~Learn vue js~~
+     - Learn svelte
+     - (and ror if possible)
 - ⚡ I love to fiddle around with code and explore Open Source Projects!
 - 📱 I just created this [django] app and this [flask] app.
 
