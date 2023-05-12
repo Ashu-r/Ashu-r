@@ -8,9 +8,9 @@
 - 🔭 I’m currently working on a [VS Code Course][website]! -->
 - 🌱 I’m currently working as a JavaScript developer on JS technologies like React, Vue, React native.
 - 👯 I’m looking forward to create some interesting websites!
-- 🥅 2021 Goals: 
-     - ~~Learn full stack with node~~
-     - ~~Learn vue js~~
+- 🥅 2023 Goals: 
+     - ~~Learn full stack with node~~ (2021)
+     - ~~Learn vue js~~ (2021)
      - Learn svelte
      - (and ror if possible)
 - ⚡ I love to fiddle around with code and explore Open Source Projects!
