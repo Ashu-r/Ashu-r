@@ -30,6 +30,14 @@
 ### 📊 GitHub Stats:  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu-r&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ashu-4" /></p>  
 
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashu-r/Ashu-r/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashu-r/Ashu-r/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ashu-r/Ashu-r/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 [email]: mailto:randiveashutosh@gmail.com 
