@@ -2,13 +2,13 @@
 
 ## I'm a Full-Stack Developer with a Passion for Building Scalable Applications!  
 
-- 🌱 Currently working as a **Django and JavaScript developer**, building backend services and frontend interfaces.  
-- 💡 Experienced in **React, Vue (Nuxt & Vue 3), Django, Express.js, MongoDB**.  
-- 🎨 Worked on **migrating Nuxt 2 (Vue) projects to React** and developing a **Data analytics tool** and **workspace bot for slack, teams**.  
+- 🌱 Currently working as a **Django, React, Vue developer**, building backend services and frontend interfaces.  
+- 💡 Experienced in **React, Vue (Nuxt & Vue 3), Django, Express.js, MongoDB, React Native**.  
 - 🚀 Passionate about **web development** 
 - 💼 Currently working on:  
   - Django backend, React frontend.  
-  - Vue 3 frontend, Express.js & MongoDB backend.  
+  - Vue 3 frontend, Express.js & MongoDB backend.
+  - React native app
 - 🔄 Exploring **backend scalability, system design, and TypeScript** in 2025.  
 
 ---
