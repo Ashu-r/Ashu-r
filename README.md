@@ -1,44 +1,44 @@
-### Hi there, my name is Ashutosh Randive 👋  
+### Hi, I'm Ashutosh Randive 👋
 
-## I'm a Full-Stack Developer with a Passion for Building Scalable Applications!  
-
-- 🌱 Currently working as a **Django, React, Vue developer**, building backend services and frontend interfaces.  
-- 💡 Experienced in **React, Vue (Nuxt & Vue 3), Django, Express.js, MongoDB, React Native**.  
-- 🚀 Passionate about **web development** 
-- 💼 Currently working on:  
-  - Django backend, React frontend.  
-  - Vue 3 frontend, Express.js & MongoDB backend.
-  - React native app
-- 🔄 Exploring **backend scalability, system design, and TypeScript** in 2025.  
+**Senior Full-Stack Engineer building AI-native product features - LLM orchestration, cost-optimized routing, and enterprise SaaS at scale.**
 
 ---
 
-### 🌐 Connect with me:  
+### 🔭 What I'm building right now
 
-[<img align="left" alt="Email" width="22px" src="static/icons/gmail.svg" />][email]  [<img align="left" alt="LinkedIn" width="22px" src="static/icons/linkedin-blue.svg" />][linkedin]  
+- **AI chat-to-dashboard pipeline** (Vue 3, Express.js, MongoDB) - turns natural language questions into live BI charts, no manual query writing.
+- **Complexity-based LLM routing layer** - routes 30-40% of requests to smaller/nano models, cutting inference cost while keeping free-tier usability intact.
+- Migrated production AI infra from OpenAI to Azure AI Foundry, improving cost posture and data residency as usage scaled.
 
-<br />  
+### 🧰 Core stack
+
+`React` `Vue.js` `TypeScript` `Node.js / Express` `Python / Django` `PostgreSQL` `MongoDB` `LLM Orchestration (OpenAI, Azure AI Foundry)`
+
+### 📌 Highlighted work
+
+- **[Draxlr](https://draxlr.com)** - BI SaaS product. Built the AI chat-to-dashboard pipeline and the LLM cost-routing layer above.
+- **[Sup Standup Bot](https://supbot.com)** - multi-platform workspace automation (Slack, MS Teams, Webex, Google Chat), scaled to 40K+ daily active users across 150+ paying teams.
+- **Blockchain compliance forensics** (Merkle Science) - owned the migration of a legacy Vue.js frontend to a modular React/Vite architecture via single-spa parcels, zero live-user downtime; eliminated UI freezes on D3.js graphs rendering 10,000+ nodes.
+- **[Dues](https://github.com/Ashu-r/dues)** - a privacy-first React Native app for tracking shared expenses, all data stored locally, no backend. Built with Expo, TypeScript, and Drizzle ORM over SQLite. [Live on the Play Store](https://play.google.com/store/apps/details?id=dev.ashur.dues).
 
 ---
 
-### 📚 Resources I Learn From:  
-- [Fullstack Open](https://fullstackopen.com/en/)  
-- [The Odin Project](https://theodinproject.com/)  
+### 🌐 Connect
 
----
-
-### 📊 GitHub Stats:  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashu-r&show_icons=true&theme=dracula&locale=en&layout=compact" alt="ashu-4" /></p>  
-
+[<img align="left" alt="Email" width="22px" src="static/icons/gmail.svg" />][email]  [<img align="left" alt="LinkedIn" width="22px" src="static/icons/linkedin-blue.svg" />][linkedin]
 <br />
 
+---
+
+### 📊 GitHub activity
+
+<!-- [![Ashu's GitHub stats](https://github-stats-extended.vercel.app/api?username=ashu-r)](https://github.com/stats-organization/github-stats-extended)
+<br /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashu-r/Ashu-r/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashu-r/Ashu-r/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ashu-r/Ashu-r/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
 
-
-
-[email]: mailto:randiveashutosh@gmail.com 
-[linkedin]: https://www.linkedin.com/in/ashutosh-randive/  
+[email]: mailto:randiveashutosh@gmail.com
+[linkedin]: https://www.linkedin.com/in/ashutosh-randive/
